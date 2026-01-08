@@ -1,29 +1,14 @@
-Assalomu alaykum ✋
-
-# Men Dostonbek Solijonov, Web dasturchiman
-
-## 👤 Men haqimda
-Web dasturchi sifatida frontend va backend texnologiyalar bilan ishlayman.  
-Zamonaviy, toza va samarali web ilovalar yaratishga ixtisoslashganman.  
-Texnologiyalarni chuqur o‘rganishga va real loyihalarda amaliy tajriba orttirishga doimo tayyorman.  
-
-## 🛠 Texnologiyalar
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=System.out.println(%22Salom!%22);Developing+future...;Minimalist+Developer" alt="Typing SVG" />
 </p>
 
-## 📫 Aloqa
-<p align="left">
-  <a href="https://t.me/Dostonbek_Solijonov" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30" height="30"/>
-  </a>
-  <a href="mailto:dostonbeksolijonov.uz@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30"/>
-  </a>
-  <a href="https://soliyev.uz" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/69/69524.png" alt="Website" width="30" height="30"/>
-  </a>
-</p>
+---
 
-
-
+### 🟢 Status
+```json
+{
+  "name": "Ismingiz",
+  "role": "Full-stack Developer",
+  "location": "Uzbekistan",
+  "motto": "Code is poetry."
+}
