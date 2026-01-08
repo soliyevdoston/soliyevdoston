@@ -21,7 +21,8 @@ Texnologiyalarni chuqur o‘rganishga va real loyihalarda amaliy tajriba orttiri
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30"/>
   </a>
   <a href="https://soliyev.uz" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Internet_icon.svg" alt="Website" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Globe_icon.svg" alt="Website" width="30" height="30"/>
   </a>
 </p>
+
 
